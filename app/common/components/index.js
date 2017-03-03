@@ -1,0 +1,7 @@
+export App from './App/App'
+export Home from './Home'
+export About from './About'
+export Pages from './Pages/Index'
+export ShowPage from './Pages/Show'
+export PageForm from './Pages/Form'
+//export Translator from './Translate/Index'
