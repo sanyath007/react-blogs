@@ -1,2 +1,2 @@
-"# react-blogs" 
-"> Blog System with Facebook React.js library."
+# react-blogs
+> Blog System with Facebook React.js library.
