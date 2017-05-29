@@ -1,1 +1,2 @@
-"# reactjs-blogs" 
+"# react-blogs" 
+"> Blog System with Facebook React.js library."
